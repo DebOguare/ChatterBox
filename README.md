@@ -68,3 +68,8 @@ Server says: Hi, Client!
 You (Client): How are you?
 Server says: I'm fine, thanks! You?
 ```
+
+## Resources
+1. https://thepythoncode.com/article/make-a-chat-room-application-in-python
+2. https://medium.com/swlh/lets-write-a-chat-app-in-python-f6783a9ac170
+3. https://youtu.be/Ar94t2XhKzM?si=nfVn4bGkd_wMlL1B
