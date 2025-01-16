@@ -53,7 +53,7 @@ This project serves as a foundational implementation of the TCP/IP stack using P
 ```
 Server is waiting for connections...
 Client connected from: ('127.0.0.1', 54321)
-Type 'quit' to end the chat.
+Type 'over' to end the chat.
 Client says: Hello, Server!
 You (Server): Hi, Client!
 Client says: How are you?
@@ -62,7 +62,7 @@ You (Server): I'm fine, thanks! You?
 
 **Client Terminal:**
 ```
-Connected to the server. Type 'quit' to end the chat.
+Connected to the server. Type 'over' to end the chat.
 You (Client): Hello, Server!
 Server says: Hi, Client!
 You (Client): How are you?
